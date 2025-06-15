@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "title":   "Benvenuti su Futer Web Solutions",
+    "subtitle":"La tua agenzia digitale su misura",
+    "bgImage": "assets/images/hero-bg.jpg",
+    "cta": {
+      "text": "Scopri di più",
+      "url":  "#services"
+    }
+  },
+  "services": [
+    {
+      "icon":        "assets/icons/web.svg",
+      "title":       "Sviluppo Web",
+      "description": "Realizziamo siti performanti e responsive."
+    },
+    {
+      "icon":        "assets/icons/app.svg",
+      "title":       "App Mobile",
+      "description": "Applicazioni native e ibride per ogni piattaforma."
+    }
+  ],
+  "testimonials": [
+    {
+      "name":    "Mario Rossi",
+      "role":    "CEO, StartupX",
+      "message": "Con Futer abbiamo triplicato gli utenti in 6 mesi."
+    }
+  ],
+  "footer": {
+    "copyright": "© 2025 Futer Web Solutions",
+    "links": [
+      { "text": "Privacy", "url": "/privacy.html" },
+      { "text": "Contatti", "url": "/contact.html" }
+    ]
+  }
+}
