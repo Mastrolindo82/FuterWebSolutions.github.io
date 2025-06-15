@@ -1,37 +1,63 @@
 {
-  "hero": {
-    "title":   "Benvenuti su Futer Web Solutions",
-    "subtitle":"La tua agenzia digitale su misura",
-    "bgImage": "assets/images/hero-bg.jpg",
-    "cta": {
-      "text": "Scopri di più",
-      "url":  "#services"
-    }
+  "nav": [
+    { "label": "Home",    "href": "#top" },
+    { "label": "Servizi", "href": "#services" },
+    { "label": "Chi siamo", "href": "#about" },
+    { "label": "Contatti", "href": "#contact" }
+  ],
+  "header": {
+    "title": "Come progettare un Carosello efficace",
+    "subtitle": "Guida completa al Carosello Web",
+    "backgroundImage": "https://framerusercontent.com/images/iJmtXwsZ6oVdmLkZ8AFN0wIbT0.jpg"
   },
-  "services": [
+  "sections": [
     {
-      "icon":        "assets/icons/web.svg",
-      "title":       "Sviluppo Web",
-      "description": "Realizziamo siti performanti e responsive."
+      "class": "framer-3g9bdi",
+      "heading": "I caroselli sono ovunque.",
+      "content": "Sono diventati uno degli strumenti più utilizzati per mostrare contenuti in sequenza...",
+      "image": null
     },
     {
-      "icon":        "assets/icons/app.svg",
-      "title":       "App Mobile",
-      "description": "Applicazioni native e ibride per ogni piattaforma."
-    }
-  ],
-  "testimonials": [
+      "class": "framer-j19omx",
+      "heading": "Le 6 regole fondamentali per un carosello efficace",
+      "content": "Come progettare caroselli efficaci e accessibili...",
+      "image": null
+    },
     {
-      "name":    "Mario Rossi",
-      "role":    "CEO, StartupX",
-      "message": "Con Futer abbiamo triplicato gli utenti in 6 mesi."
+      "class": "framer-ak99sx",
+      "heading": "Indica una direzione di scorrimento",
+      "content": "La direzione di scorrimento di un carosello influisce sull’esperienza utente...",
+      "image": "https://framerusercontent.com/images/tY4PWcQ9L615cTZZuyJZgAWB28.png"
     }
+    // ...altre sezioni
+  ],
+  "carousels": [
+    {
+      "class": "framer-tllnar",
+      "type": "ecommerce",
+      "items": [
+        { "title": "Big Nike Low", "price": "85 €", "image": "https://framerusercontent.com/images/8rsBF9g8ZKv5U63lkxojB9oe6g.jpg" }
+        // ...
+      ]
+    },
+    {
+      "class": "framer-16npw3i",
+      "type": "recensioni",
+      "items": [
+        { "author": "Maria Ferrari", "date": "26/02/2025", "review": "Cibo eccellente e servizio impeccabile...", "image": "https://framerusercontent.com/images/FwUkUxZGOGLHEb6N6hVphfD0eyw.png" }
+        // ...
+      ]
+    }
+    // ...altri caroselli
+  ],
+  "faq": [
+    {
+      "question": "Posso mettere in pausa il carosello?",
+      "answer": ""
+    }
+    // ...altre domande
   ],
   "footer": {
-    "copyright": "© 2025 Futer Web Solutions",
-    "links": [
-      { "text": "Privacy", "url": "/privacy.html" },
-      { "text": "Contatti", "url": "/contact.html" }
-    ]
+    "text": "© 2025 Future Web Solutions. Tutti i diritti riservati."
   }
 }
