@@ -20,6 +20,9 @@
   "elementi-gratifici-titolo":"Elementi grafici nei video pubblicitari di YouTube",
   "elementi-grafici-descrizione":"Gli annunci in-stream saltabili e non saltabili, sono tra i formati più diffusi. I primi devono essere visualizzati per intero prima di riprendere il video e possono durare 15 o 20 secondi, mentre nel caso degli annunci saltabili, gli utenti possono interrompere la visione dell’annuncio dopo 5 secondi. Entrambe le tipologie includono elementi visivi sovrapposti, utili a indicare la durata dell’annuncio e la possibilità di saltarlo. ",
 
+  "annunci-non-saltabili-titolo":"Annunci non saltabili",
+  "annunci-saltabili-titolo":"Annunci saltabili",
+  
   "studio-titolo":"Timer, barre, pulsanti… influenzano davvero le nostre emozioni?",
   "studio-descrizione":"Uno studio ha messo alla prova gli annunci su YouTube analizzando le reazioni degli utenti a elementi grafici come il bottone 'Salta' o la barra di avanzamento. Scopri cosa è emerso dal test e come questi dettagli possono cambiare l’esperienza pubblicitaria.",
 
@@ -33,6 +36,8 @@
   "tipo-user-descrizione-1":"Scopriche tipo di utente sei su YouTube e come interagisci con le pubblicità mentre guardi i tuoi video.",
   "tipo-user-descrizione-2":"Rispondi a questo quiz, durerà solo qualche minuto.",
   "tipo-user-descrizione-3":"Scopri subito il tuo risultato!",
+
+  "copyright":"© 2025 neuroscelte. Tutti i diritti riservati.",
   
   "asd8":"",
   "asd9":"",
