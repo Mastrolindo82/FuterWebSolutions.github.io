@@ -43,6 +43,34 @@
   
   
   "emozioni-titolo":"Emozioni e disgusto Annunci video in-stream",
+  "emozioni-sottotitolo":"Annunci video in-stream",
   "emozioni-descrizione-1":"Da oltre quarant’anni, la ricerca mostra che le emozioni influenzano profondamente la percezione della pubblicità, soprattutto online. Tra queste, il disgusto ha un ruolo centrale: non solo per contenuti spiacevoli, ma anche come reazione morale a situazioni percepite come ingiuste o forzate, come gli annunci video non skippabili su YouTube. Questi annunci, soprattutto se posizionati a metà del video (mid-roll), possono generare emozioni negative come irritazione, rabbia e disgusto, perché l’utente si sente privato del controllo.",
+  "emozioni-descrizione-2":"Elementi visivi come timer e barre di avanzamento rendono evidente la natura pubblicitaria dell’interruzione: da un lato segno di trasparenza, dall’altro possibile attivatore automatico di fastidio. Lo studio analizza se questi elementi visivi influenzano espressioni facciali di disgusto e dichiarazioni emotive degli utenti, in particolare durante annunci mid-roll non skippabili da 15 secondi.",
+  
+  "partecipanti-titolo":"I partecipanti",
+  "partecipanti-descrizione":"Lo studio ha coinvolto 175 persone, uomini e donne con un’età media di circa 26 anni. Tutti hanno partecipato volontariamente, sapevano esattamente in cosa consisteva la ricerca e hanno firmato un consenso in formato digitale. Nessuno è stato pagato. L’esperimento si è svolto online, rispettando tutte le regole etiche europee e internazionali sulla ricerca, ed è stato approvato da un comitato etico universitario.",
+
+  "esperimento-titolo":"L’esperimento e le tre “condizioni”",
+  "esperimento-descrizione":"La differenza principale tra i gruppi di partecipanti era la presenza o meno di elementi grafici non pubblicitari sovrapposti all’annuncio (come quelli tipici di YouTube: pulsanti, timer, ecc.). Dopo la visione, i partecipanti compilavano un questionario su come avevano vissuto l’esperienza, indicando per esempio se trovavano la pubblicità fastidiosa o sgradevole.",
+
+  "basso-titolo":"Basso",
+  "basso-descrizione":"Il video includeva solo una parte degli elementi grafici, in versione semplificata.",
+  "corrente-titolo":"Corrente",
+  "corrente-descrizione":"L’annuncio era identico a quelli che si vedono davvero su YouTube, con tutti gli elementi tipici (come il timer e il logo).",
+  "assente-titolo":"Assente",
+  "assente-descrizione":"Il video pubblicitario veniva mostrato senza alcun elemento grafico extra di YouTube.",
+  
+  "risultati-titolo":"Risultati dello studio:",
+  "risultati-sottotitolo":"come gli elementi visivi extra influenzano l’esperienza pubblicitaria su YouTube",
+  "risultati-descrizione":"Lo studio ha analizzato l’impatto degli elementi non pubblicitari (come timer o barre di avanzamento) durante gli annunci video su YouTube, con tre risultati principali:",
+  
+  "attenzione-visiva-titolo":"Attenzione visiva",
+  "attenzione-visiva-descrizione":"Gli utenti che non vedevano elementi extra si concentravano di più sugli annunci e li guardavano più velocemente. Meno distrazioni = maggiore attenzione pubblicitaria.",
+  "emozioni-facciali-titolo":"Emozioni facciali (disgusto)",
+  "emozioni-facciali-descrizione":"Chi era esposto a meno elementi visivi mostrava meno segnali di disgusto sul volto. Al contrario, più contenuti extra aumentavano l’irritazione emotiva.",
+  "dichiarazioni-utenti-titolo":"Dichiarazioni utenti",
+  "dichiarazioni-utenti-descrizione":"Gli spettatori con più elementi visivi dichiaravano maggiore disgusto, fastidio e desiderio di evitare la pubblicità, con un atteggiamento complessivamente più negativo verso l’annuncio.",
+  "asd10":"",
+  "asd10":"",
   "asd10":""
 }
