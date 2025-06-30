@@ -1,15 +1,23 @@
-{
+{ "agenzia-titolo":"La nostra agenzia",
+  "agenzia-sottotitolo":"Il neuromarketing incontra la creatività",
+  "agenzia-descrizione":"Siamo un’agenzia di comunicazione e progettazione web che trasforma le idee in strategie concrete e creative. Uniamo passione, competenze, visione strategica e neuromarketing per aiutare i brand a crescere, distinguersi e parlare davvero al proprio pubblico. Per questo, ogni progetto nasce da un ascolto attento e da un’analisi profonda: comprendiamo i tuoi obiettivi, studiamo il contesto e costruiamo insieme un percorso su misura.Il nostro obiettivo? Dare voce al tuo brand nel modo più creativo, coinvolgente e autentico.",
+  "diff-neuromarketing-titolo":"Perché il neuromarketing fa la differenza?",
+  "diff-neuromarketing-descrizione":"Nel mondo digitale di oggi, catturare l’attenzione non è più sufficiente. Viviamo in un’epoca in cui le persone sono esposte ogni giorno a migliaia di stimoli visivi e messaggi pubblicitari. In questo contesto, il vero obiettivo è riuscire a comprendere a fondo come le persone pensano, decidono e reagiscono. Nel nostro lavoro, uniamo scienza, dati e creatività per ideare strategie di comunicazione in grado di parlare direttamente alla mente, e al cuore delle persone. Solo così è possibile costruire una comunicazione che lasci davvero il segno.",
+  "diff-neuromarketing-descrizione-1":"Ed è proprio qui che entra in gioco il neuromarketing: un approccio innovativo che integra le conoscenze delle neuroscienze, della psicologia cognitiva e del marketing strategico, con l’obiettivo di progettare messaggi capaci di attivare le giuste leve emotive e cognitive. Non si tratta solo di creatività: si tratta di capire i meccanismi profondi che guidano il comportamento umano, per costruire esperienze autentiche, efficaci e memorabili.",
+  "team-titolo":"il nostro team",
+  "team-descrizione":"Dietro ogni progetto di successo c’è un team appassionato, competente e creativo. Siamo un gruppo di professionisti multidisciplinari, uniti dall’obiettivo comune di trasformare le idee in strategie efficaci e comunicazioni coinvolgenti. Dalla comunicazione e progettazione web al neuromarketing, marketing digitale e content creation, uniamo competenze diverse per offrire soluzioni su misura.",
+  
   "marketing-titolo":"Cos’è il Neuromarketing?",
   "marketing-sottotitolo":"Come il cervello guida i tuoi acquisti",
   "marketing-descrizione":"Il neuromarketing è una disciplina che unisce neuroscienze e marketing per capire come il cervello umano reagisce agli stimoli pubblicitari. Il neuromarketing analizza le emozioni, l'attenzione, la memoria, e aiuta le aziende a creare messaggi più efficaci, prodotti più attraenti e esperienze d'acquisto più coinvolgenti. Attraverso tecniche come l’eye-tracking, l’analisi delle onde cerebrali o delle reazioni fisiologiche, possiamo scoprire cosa influenza davvero le decisioni di acquisto.",
   "marketing-descrizione-1":"Gli obiettivi principali del neuromarketing sono comprendere i processi decisionali inconsci, ottimizzare le campagne pubblicitarie e i messaggi, migliorare l’esperienza utente e il design dei prodotti, oltre a prevedere il comportamento dei consumatori. Il neuromarketing mira a colmare il divario tra ciò che le persone dichiarano di volere e ciò che effettivamente fanno. Offre insight più autentici e affidabili rispetto ai sondaggi tradizionali.",
-
+  "aziende-scelte-titolo":"Le aziende che ci hanno scelto",
   "neuromarketing-titolo":"Neuromarketing nei Video YouTube",
   "neuromarketing-descrizione":"Il neuromarketing viene sempre più spesso applicato anche ai contenuti video su YouTube, per massimizzare l’attenzione e il coinvolgimento degli spettatori. Attraverso tecniche basate su neuroscienze e psicologia, i creatori progettano aperture coinvolgenti, scelgono colori, suoni e inquadrature in grado di stimolare emozioni, e costruiscono narrazioni capaci di restare impresse nella memoria.Dall’uso strategico delle miniature al ritmo del montaggio, ogni dettaglio è pensato per guidare le decisioni inconsce dello spettatore e aumentare l’efficacia del messaggio.",
 
   "roll-titolo":"Cosa sono i video Pre-roll, Mid-roll e Post-roll su YouTube?",
   "roll-sottotitolo":"Mid-roll e Post-roll su YouTube?",
-  "roll-descrizione":"YouTube offre tre principali formati pubblicitari — pre-roll, mid-roll e post-roll — che si distinguono in base al momento in cui appaiono rispetto al contenuto principale. Ogni tipologia consente agli inserzionisti di intercettare l’attenzione degli utenti in fasi diverse della visione del video.",
+  "roll-descrizione":"Gli annunci in-stream saltabili e non saltabili, sono tra i formati più diffusi. I primi devono essere visualizzati per intero prima di riprendere il video e possono durare 15 o 20 secondi, mentre nel caso degli annunci saltabili, gli utenti possono interrompere la visione dell’annuncio dopo 5 secondi. Entrambe le tipologie includono elementi visivi sovrapposti, utili a indicare la durata dell’annuncio e la possibilità di saltarlo. ",
   "pre-roll-titolo":"Pre-roll",
   "pre-roll-descrizione":"I Pre-roll appaiono prima dell’inizio del video principale e possono essere skippabili o obbligatori. ",
   "mid-roll-titolo":"Mid-roll",
@@ -44,8 +52,8 @@
   
 
   
-  "emozioni-titolo":"Emozioni e disgusto",
-  "emozioni-sottotitolo":"Annunci video in-stream",
+  "emozioni-titolo":"Emozioni su YouTubeUno studio sull'esperienza dell'utente",
+  "emozioni-sottotitolo":"Uno studio sull'esperienza dell'utente",
   "emozioni-descrizione-1":"Da oltre quarant’anni, la ricerca mostra che le emozioni influenzano profondamente la percezione della pubblicità, soprattutto online. Tra queste, il disgusto ha un ruolo centrale: non solo per contenuti spiacevoli, ma anche come reazione morale a situazioni percepite come ingiuste o forzate, come gli annunci video non skippabili su YouTube. Questi annunci, soprattutto se posizionati a metà del video (mid-roll), possono generare emozioni negative come irritazione, rabbia e disgusto, perché l’utente si sente privato del controllo.",
   "emozioni-descrizione-2":"Elementi visivi come timer e barre di avanzamento rendono evidente la natura pubblicitaria dell’interruzione: da un lato segno di trasparenza, dall’altro possibile attivatore automatico di fastidio. Lo studio analizza se questi elementi visivi influenzano espressioni facciali di disgusto e dichiarazioni emotive degli utenti, in particolare durante annunci mid-roll non skippabili da 15 secondi.",
   
